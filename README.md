@@ -7,7 +7,7 @@
 
 - 💬 Feel free to ask me about **Java and Kotlin**
 
-- I am passionate about learning and enjoy experimenting with new ideas
+- 🌱 I am passionate about learning and enjoy experimenting with new ideas
 
 <p align="left">
 </p>
