@@ -3,7 +3,7 @@
 <h1 align="center">Greeting 👋, I'm Hoang</h1>
 <h3 align="center">A nice guy work as developer from VietNam</h3><br/>
 
-- 🔭 I’m mainly working on **Native Android Application**
+- 🔭 I’m an **Android Developer (KMP)** 
 
 - 💬 Feel free to ask me about **Java and Kotlin**
 
