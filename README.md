@@ -2,11 +2,12 @@
 <h1 align="center">Greeting 👋, I'm Hoang</h1>
 <h3 align="center">A nice guy work as developer from VietNam</h3><br/>
 <img align="right" src="https://github.com/user-attachments/assets/23bd2ada-e2a3-4c33-a330-001f8fedda3c" alt="android" width="190" height="120"/>
-- 🔭 I’m an **Android Developer (KMP)** 
+
+- 🔭 I’m an **Android Developer (KMP)**
 
 - 💬 Feel free to ask me about **Java and Kotlin**
 
-- ⚡ Fun fact **I have 2 budgies**
+  
 
 <p align="left">
 </p>
