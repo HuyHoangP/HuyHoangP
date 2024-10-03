@@ -3,7 +3,7 @@
 <h3 align="center">Just a nice guy who works as a developer from VietNam</h3><br/>
 <img align="right" src="https://github.com/user-attachments/assets/23bd2ada-e2a3-4c33-a330-001f8fedda3c" alt="android" width="190" height="120"/>
 
-- 🔭 I’m an **Android Developer (KMP)**
+- 🔭 I’m an **Android Developer**
 
 - 💬 Feel free to ask me about **Java and Kotlin**
 
